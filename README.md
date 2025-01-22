@@ -1,4 +1,4 @@
-# Crud_Prueba
+# prueba_CRUD
 Prueba Técnica Jorge Lourido
 
 Descripción del Proyecto - CRUD para Gestión de Usuarios
